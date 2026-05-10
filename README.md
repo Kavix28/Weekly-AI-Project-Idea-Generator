@@ -1,5 +1,3 @@
-# Weekly AI Project Idea Generator — Complete Workflow Documentation
-
 **Workflow ID:** `qcXogByfl67mjgO0`
 **Status:** Active
 **n8n URL:** http://localhost:5678/workflow/qcXogByfl67mjgO0
@@ -516,5 +514,3 @@ node run_main_workflow.js
 ---
 
 *Generated: March 2026 | n8n version 2.6.3*
-#   W e e k l y - A I - P r o j e c t - I d e a - G e n e r a t o r  
- 
